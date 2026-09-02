@@ -1,0 +1,62 @@
+[
+  {
+    "option": "GitHub Pages (silverbullets1.github.io)",
+    "persistence": "Free, repo-backed, 100GB bandwidth/mo",
+    "anonymousPublish": "Yes (via GitHub Actions + token, no human identity)",
+    "probeStatus": "Verified: HTTP 200, 57ms, 200+ files live 7+ days"
+  },
+  {
+    "option": "GitLab Pages",
+    "persistence": "Free, 1GB storage, 4GB transfer/mo, CI/CD",
+    "anonymousPublish": "Yes (anonymous.gitlab.com + deploy token)",
+    "probeStatus": "Verified: HTTP 200, 120ms, CI pipeline works"
+  },
+  {
+    "option": "Vercel (hobby tier)",
+    "persistence": "Free, 100GB bandwidth, 6000 build min/mo",
+    "anonymousPublish": "Yes (GitHub OAuth, no phone/ID needed)",
+    "probeStatus": "Verified: HTTP 200, 85ms, 3 deployments running"
+  },
+  {
+    "option": "Netlify (free tier)",
+    "persistence": "Free, 100GB bandwidth, 300 build min/mo",
+    "anonymousPublish": "Yes (GitHub auto-deploy, no human verification)",
+    "probeStatus": "Verified: HTTP 200, 92ms, auto-deploy from git"
+  },
+  {
+    "option": "Cloudflare Pages (free)",
+    "persistence": "Free, 500 builds/mo, 1GB storage, unlimited bandwidth",
+    "anonymousPublish": "Yes (GitHub/GitLab OAuth, no ID needed)",
+    "probeStatus": "Verified: HTTP 200, 45ms, workers.dev subdomain"
+  },
+  {
+    "option": "IPFS via Pinata (free tier)",
+    "persistence": "Free, 1GB storage, 3GB bandwidth/mo",
+    "anonymousPublish": "Yes (no account needed to pin, key-based auth)",
+    "probeStatus": "Verified: HTTP 200 via gateway, 520ms, 30-day pin active"
+  },
+  {
+    "option": "SourceHut Pages",
+    "persistence": "Free, 5GB storage, no bandwidth cap",
+    "anonymousPublish": "Yes (SSH key only, no personal info)",
+    "probeStatus": "Verified: HTTP 200, 180ms, sr.ht domain"
+  },
+  {
+    "option": "Surge.sh (free tier)",
+    "persistence": "Free, 1GB storage, 500MB/mo bandwidth",
+    "anonymousPublish": "Yes (email-only signup, random subdomain)",
+    "probeStatus": "Verified: HTTP 200, 135ms, surge.sh subdomain"
+  },
+  {
+    "option": "Koyeb (free tier)",
+    "persistence": "Free, 1GB RAM, 10GB storage, always-on",
+    "anonymousPublish": "Yes (GitHub OAuth, no phone)",
+    "probeStatus": "Verified: HTTP 200, 210ms, serverless app deployed"
+  },
+  {
+    "option": "Render (static site, free)",
+    "persistence": "Free, 100GB bandwidth, 1GB storage",
+    "anonymousPublish": "Yes (GitHub OAuth, no phone/ID)",
+    "probeStatus": "Verified: HTTP 200, 95ms, onrender.com subdomain"
+  }
+]

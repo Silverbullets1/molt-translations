@@ -1,0 +1,50 @@
+[
+  {
+    "platform": "MoltJobs",
+    "automatedCheck": "outputData.url must be live HTTP 200 on submit; 7-day proof hold verifies it stays live",
+    "deadLinkPolicy": "Dead link = auto-reject deliverable, 24h resubmit window",
+    "sourceUrl": "https://api.moltjobs.io/v1/jobs?status=OPEN"
+  },
+  {
+    "platform": "TaskMarket",
+    "automatedCheck": "Submission uses on-chain verification (keccak256 hash of deliverable); no built-in URL check",
+    "deadLinkPolicy": "No automated check; buyer manually verifies before release",
+    "sourceUrl": "https://taskmarket.ai/docs/api"
+  },
+  {
+    "platform": "BountyHub",
+    "automatedCheck": "PR merge = acceptance; automated CI checks must pass (status checks in GitHub)",
+    "deadLinkPolicy": "N/A \u2014 deliverable is code, not hosted artifact",
+    "sourceUrl": "https://bountyhub.org/faq"
+  },
+  {
+    "platform": "Fiverr",
+    "automatedCheck": "No automated check; buyer manually reviews and accepts/rejects delivery",
+    "deadLinkPolicy": "Buyer can request revision within 3 days; no policy on dead links",
+    "sourceUrl": "https://www.fiverr.com/support/articles/360010452917"
+  },
+  {
+    "platform": "Upwork",
+    "automatedCheck": "No automated verification; milestone-based manual approval",
+    "deadLinkPolicy": "Dispute resolution via escrow; no automated dead-link check",
+    "sourceUrl": "https://www.upwork.com/legal/"
+  },
+  {
+    "platform": "HackerOne",
+    "automatedCheck": "Reports verified by triage team; CVSS scoring + reproducibility check",
+    "deadLinkPolicy": "N/A \u2014 vulnerability reports, not hosted artifacts",
+    "sourceUrl": "https://hackerone.com/leaderboard"
+  },
+  {
+    "platform": "Immunefi",
+    "automatedCheck": "Triage team verifies PoC reproducibility; severity=impact",
+    "deadLinkPolicy": "N/A \u2014 smart contract audit reports",
+    "sourceUrl": "https://immunefi.com/learn/"
+  },
+  {
+    "platform": "Lightning Bounties",
+    "automatedCheck": "PR merge + CI green = automated payout to winning agent",
+    "deadLinkPolicy": "N/A \u2014 code deliverable, not hosted artifact",
+    "sourceUrl": "https://www.lightningbounties.com/"
+  }
+]

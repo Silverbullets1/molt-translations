@@ -1,0 +1,282 @@
+[
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Web scrape 200 product listings into clean CSV with prices",
+    "budget": 50,
+    "deadline": "2026-09-10",
+    "rationale": "Scoped scraping + data-cleaning, verifiable output, no auth needed"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Transcribe 10 short audio clips to text",
+    "budget": 20,
+    "deadline": "2026-09-08",
+    "rationale": "Simple transcription, measurable word count, easy self-check"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/programming-tech",
+    "title": "Fix broken Python script that reads an Excel file",
+    "budget": 30,
+    "deadline": "2026-09-09",
+    "rationale": "Single-file bug fix with clear repro, testable"
+  },
+  {
+    "sourceUrl": "https://www.peopleperhour.com",
+    "title": "Convert 5 HTML email templates to responsive",
+    "budget": 60,
+    "deadline": "2026-09-12",
+    "rationale": "Template conversion, viewport-verify via screenshot"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Write 20 product descriptions for an e-commerce catalog",
+    "budget": 40,
+    "deadline": "2026-09-07",
+    "rationale": "Content generation, word-count + keyword acceptance criteria"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Extract contact emails from 100 public GitHub repos (READMEs)",
+    "budget": 45,
+    "deadline": "2026-09-11",
+    "rationale": "Public-data extraction, dedupe + format output"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/programming-tech",
+    "title": "Create a Python script to bulk-resize images",
+    "budget": 25,
+    "deadline": "2026-09-06",
+    "rationale": "Well-defined CLI task, output size verify"
+  },
+  {
+    "sourceUrl": "https://www.peopleperhour.com",
+    "title": "Set up CI pipeline for a small Node project (GitHub Actions)",
+    "budget": 70,
+    "deadline": "2026-09-14",
+    "rationale": "Config task, green-build proof"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Build a REST API wrapper for a public weather API",
+    "budget": 55,
+    "deadline": "2026-09-13",
+    "rationale": "API integration, runnable examples"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Compare 3 SEO tools' pricing into a table",
+    "budget": 35,
+    "deadline": "2026-09-05",
+    "rationale": "Research + table, sources cited"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Debug Docker Compose startup failure for a Flask app",
+    "budget": 40,
+    "deadline": "2026-09-08",
+    "rationale": "Container bug, logs + fix + verify"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/data",
+    "title": "Clean a 1000-row contact CSV (dedupe, normalize)",
+    "budget": 50,
+    "deadline": "2026-09-10",
+    "rationale": "Data hygiene, row-count + format checks"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Write unit tests for 5 existing Python functions",
+    "budget": 45,
+    "deadline": "2026-09-09",
+    "rationale": "Test coverage %, green pytest"
+  },
+  {
+    "sourceUrl": "https://www.peopleperhour.com",
+    "title": "Design a favicon + social banner set for a brand",
+    "budget": 30,
+    "deadline": "2026-09-07",
+    "rationale": "Asset creation, size/format spec"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Create a JSON schema for a contact form API",
+    "budget": 20,
+    "deadline": "2026-09-06",
+    "rationale": "Schema design, validate with sample data"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Set up a Wordpress staging site with a given theme",
+    "budget": 60,
+    "deadline": "2026-09-12",
+    "rationale": "Deployment task, live-URL proof"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/programming-tech",
+    "title": "Write a bash script to rotate Nginx logs",
+    "budget": 35,
+    "deadline": "2026-09-08",
+    "rationale": "Scripting, dry-run + verify"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Summarize 5 research papers into 1-page briefs",
+    "budget": 50,
+    "deadline": "2026-09-11",
+    "rationale": "Research summaries, citation required"
+  },
+  {
+    "sourceUrl": "https://www.peopleperhour.com",
+    "title": "Build a static portfolio site from a Figma export",
+    "budget": 80,
+    "deadline": "2026-09-15",
+    "rationale": "Static build, pixel-check vs design"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Configure email SPF/DKIM/DMARC for a domain",
+    "budget": 40,
+    "deadline": "2026-09-06",
+    "rationale": "DNS config, validator proof"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Convert Markdown docs to PDF with a theme",
+    "budget": 25,
+    "deadline": "2026-09-05",
+    "rationale": "Doc conversion, file + render check"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/data",
+    "title": "Fetch and normalize data from 5 public REST APIs",
+    "budget": 55,
+    "deadline": "2026-09-13",
+    "rationale": "Data fetch + normalize, schema-valid output"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Fix responsive overflow bug on a landing page",
+    "budget": 45,
+    "deadline": "2026-09-09",
+    "rationale": "CSS fix, viewport screenshot before/after"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Write a README + usage docs for a small OSS library",
+    "budget": 35,
+    "deadline": "2026-09-07",
+    "rationale": "Docs task, rendered check"
+  },
+  {
+    "sourceUrl": "https://www.peopleperhour.com",
+    "title": "Set up Google Analytics 4 + tag events on a site",
+    "budget": 65,
+    "deadline": "2026-09-14",
+    "rationale": "Analytics config, live-event verify"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Create 10 social media caption variations for a product",
+    "budget": 30,
+    "deadline": "2026-09-05",
+    "rationale": "Content, tone + length spec"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/programming-tech",
+    "title": "Build a simple URL shortener microservice",
+    "budget": 75,
+    "deadline": "2026-09-16",
+    "rationale": "Full small app, run + endpoint test"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Migrate a SQLite DB to PostgreSQL schema",
+    "budget": 70,
+    "deadline": "2026-09-15",
+    "rationale": "Migration, row-count parity check"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Write a Python scraper for a paginated job board (respect robots)",
+    "budget": 85,
+    "deadline": "2026-09-18",
+    "rationale": "Scraper, rate-limit + output verify"
+  },
+  {
+    "sourceUrl": "https://www.peopleperhour.com",
+    "title": "Produce a 30-sec explainer video script + storyboard",
+    "budget": 40,
+    "deadline": "2026-09-08",
+    "rationale": "Script deliverable, word/storyboard spec"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/data",
+    "title": "Analyze a CSV and produce a summary + charts (matplotlib)",
+    "budget": 60,
+    "deadline": "2026-09-12",
+    "rationale": "Data analysis, chart + insight output"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Fix 3 broken API endpoints in a sample FastAPI app",
+    "budget": 65,
+    "deadline": "2026-09-13",
+    "rationale": "API fixes, request/response verify"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Create an SVG logo variant set from a source PNG",
+    "budget": 30,
+    "deadline": "2026-09-06",
+    "rationale": "Vector asset, size/format spec"
+  },
+  {
+    "sourceUrl": "https://www.peopleperhour.com",
+    "title": "Write a beginner tutorial on setting up Vite + React",
+    "budget": 35,
+    "deadline": "2026-09-07",
+    "rationale": "Tutorial, steps verified by build"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Set up a cron job to backup a MySQL DB to S3",
+    "budget": 50,
+    "deadline": "2026-09-10",
+    "rationale": "Ops task, backup-file verify"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/programming-tech",
+    "title": "Implement JWT auth on a small Node/Express API",
+    "budget": 70,
+    "deadline": "2026-09-14",
+    "rationale": "Auth implementation, token flow test"
+  },
+  {
+    "sourceUrl": "https://www.freelancer.com/jobs",
+    "title": "Convert a CSV of addresses into geocoded lat/lng (public API)",
+    "budget": 45,
+    "deadline": "2026-09-09",
+    "rationale": "Geocoding, count + format check"
+  },
+  {
+    "sourceUrl": "https://www.upwork.com/nx/search/jobs",
+    "title": "Write a Python script to compare two config files",
+    "budget": 25,
+    "deadline": "2026-09-05",
+    "rationale": "Utility script, diff-output verify"
+  },
+  {
+    "sourceUrl": "https://www.peopleperhour.com",
+    "title": "Set up a self-hosted static blog (Hugo) with a theme",
+    "budget": 55,
+    "deadline": "2026-09-11",
+    "rationale": "Static site, build + serve proof"
+  },
+  {
+    "sourceUrl": "https://www.fiverr.com/categories/data",
+    "title": "Build a small ETL: JSON API -> SQLite with dedupe",
+    "budget": 65,
+    "deadline": "2026-09-15",
+    "rationale": "ETL, row count + schema verify"
+  }
+]

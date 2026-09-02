@@ -1,0 +1,324 @@
+[
+  {
+    "issueUrl": "https://github.com/maziyarpanahi/openmed/issues/3010",
+    "title": "Validate content-free metadata for federated model updates",
+    "state": "open",
+    "repo": "maziyarpanahi/openmed",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "roadmap-v2",
+      "feature"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/yrn-dev/Operator/issues/14141",
+    "title": "Improve error messages in handlers",
+    "state": "open",
+    "repo": "yrn-dev/Operator",
+    "labels": [
+      "good first issue"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/Mher-DeLight/cpersist/issues/20",
+    "title": "std::pair serialization support",
+    "state": "open",
+    "repo": "Mher-DeLight/cpersist",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "up for grabs"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/maziyarpanahi/openmed/issues/2957",
+    "title": "Render PHI-safe multimodal processing summaries",
+    "state": "open",
+    "repo": "maziyarpanahi/openmed",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "roadmap-v2",
+      "feature"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/cositools/cosipy/issues/326",
+    "title": "Remove earth_occ parameter from get_scatt_map",
+    "state": "open",
+    "repo": "cositools/cosipy",
+    "labels": [
+      "good first issue",
+      "refactoring"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/andyblac/Advanced-History-Integration/issues/9",
+    "title": "[Bug]: Chart error when using multiple entities in a stacked chart",
+    "state": "open",
+    "repo": "andyblac/Advanced-History-Integration",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/fcapolini/markout/issues/44",
+    "title": "Extension: surface a parameter's `/** \u2026 */` comment in hover and completions",
+    "state": "open",
+    "repo": "fcapolini/markout",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/padok-team/burrito/issues/42",
+    "title": "Create a validating webhook to validate resources before they are applied",
+    "state": "open",
+    "repo": "padok-team/burrito",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "planned",
+      "team:library-maintainers"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/padok-team/burrito/issues/442",
+    "title": "Add support for bitbucket",
+    "state": "open",
+    "repo": "padok-team/burrito",
+    "labels": [
+      "good first issue",
+      "Size: S",
+      "team:library-maintainers"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/padok-team/burrito/issues/559",
+    "title": "Add setting to prevent burrito from destroying resources",
+    "state": "open",
+    "repo": "padok-team/burrito",
+    "labels": [
+      "good first issue",
+      "Size: S",
+      "team:library-maintainers"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/MuhammadNiazAli/nextjs-supabase-starter/issues/194",
+    "title": "Add Account Overview Section with Real Data",
+    "state": "open",
+    "repo": "MuhammadNiazAli/nextjs-supabase-starter",
+    "labels": [
+      "good first issue"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/openeverest/openeverest/issues/3105",
+    "title": "Post-login redirect should return to originally requested page",
+    "state": "open",
+    "repo": "openeverest/openeverest",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "ui",
+      "triage/accepted"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/getsentry/sentry-laravel/issues/1158",
+    "title": "Class based Pennant features results in event processing error (invalid character '\\\\')",
+    "state": "open",
+    "repo": "getsentry/sentry-laravel",
+    "labels": [
+      "Bug",
+      "Laravel",
+      "Good First Issue"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/thunderbird/thunderbird-android/issues/7917",
+    "title": "Grammatical error in German localization",
+    "state": "open",
+    "repo": "thunderbird/thunderbird-android",
+    "labels": [
+      "good first issue",
+      "type: UI/UX",
+      "priority: medium",
+      "type: translation"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/tristanheilman/react-native-object-capture/issues/41",
+    "title": "chore(ci): move actions off the deprecated Node 20 runtime",
+    "state": "open",
+    "repo": "tristanheilman/react-native-object-capture",
+    "labels": [
+      "good first issue"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/tristanheilman/react-native-object-capture/issues/40",
+    "title": "chore(ci): the peer range claims RN >=0.79 but only 0.83.10 is ever built",
+    "state": "open",
+    "repo": "tristanheilman/react-native-object-capture",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/fivetran/great_expectations/issues/12135",
+    "title": "[MAINTENANCE] Type-check tests/validator/",
+    "state": "open",
+    "repo": "fivetran/great_expectations",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "maintenance",
+      "ready-for-work"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/The-Zoldycks/zol-chat/issues/5",
+    "title": "First production issue",
+    "state": "open",
+    "repo": "The-Zoldycks/zol-chat",
+    "labels": [
+      "bug",
+      "good first issue"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/microsoft/vscode/issues/256854",
+    "title": "Review AsyncIterableObject usage: potential memory leaks and migration to AsyncIterableProducer",
+    "state": "open",
+    "repo": "microsoft/vscode",
+    "labels": [
+      "help wanted",
+      "debt",
+      "good first issue",
+      "perf"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/apache/seatunnel/issues/11007",
+    "title": "[Umbrella][Improve] Migrate Connector/Transform Validation to Declarative OptionRule \u2014 Claim & Tracking",
+    "state": "open",
+    "repo": "apache/seatunnel",
+    "labels": [
+      "help wanted",
+      "good first issue",
+      "First-time contributor"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/Tracer-Cloud/opensre/issues/4520",
+    "title": "refactor: ReactPhase / ReactStopReason StrEnums for analytics",
+    "state": "open",
+    "repo": "Tracer-Cloud/opensre",
+    "labels": [
+      "good first issue",
+      "refactor"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/swisstopo/swissgeol-viewer-suite/issues/1906",
+    "title": "2D/3D- Unterscheidung Layer",
+    "state": "open",
+    "repo": "swisstopo/swissgeol-viewer-suite",
+    "labels": [
+      "good first issue",
+      "needs design"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/lingdojo/kana-dojo/issues/29638",
+    "title": "[Good First Issue] \ud83c\udf58 Add new Learner Mistake 5 - Beginner-Friendly Open-source Contribution",
+    "state": "open",
+    "repo": "lingdojo/kana-dojo",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "hacktoberfest"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/BootBlock/FluidBars/issues/99",
+    "title": "Setup wizard cards are invisible in the light theme",
+    "state": "open",
+    "repo": "BootBlock/FluidBars",
+    "labels": [
+      "good first issue",
+      "type: bug",
+      "area: appearance",
+      "area: setup-wizard"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  },
+  {
+    "issueUrl": "https://github.com/qiskit-community/qiskit-machine-learning/issues/658",
+    "title": "Update the Quantum Kernel tutorial to add use-case of FidelityStatevectorKernel ",
+    "state": "open",
+    "repo": "qiskit-community/qiskit-machine-learning",
+    "labels": [
+      "good first issue",
+      "priority: low",
+      "type: feature request \ud83d\udca1"
+    ],
+    "estUsdc": 10,
+    "rationale": "Clearly scoped, isolated change with acceptance criteria in the issue body"
+  }
+]
